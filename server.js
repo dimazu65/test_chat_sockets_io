@@ -54,4 +54,4 @@ io.on('connection' , (socket)=> {
 
 
 
-server.listen(Port , ()=> console.log(`Server is runnig successfully on ${Port}`));
+server.listen(Port , ()=> console.log(`Server is up on ${Port}`));
