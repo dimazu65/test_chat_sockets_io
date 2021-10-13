@@ -1,1 +1,1 @@
-web:node indx.js
+web:node server.js
